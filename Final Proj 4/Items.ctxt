@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=in
+comment0.target=void\ hideTarget(char[][])
+comment0.text=\r\n\ Hides\ a\ target\ in\ each\ row\ at\ a\ random\ location\r\n\ Do\ NOT\ put\ more\ than\ 1\ target\r\n
+comment1.params=in\ size
+comment1.target=void\ hideLife(char[][],\ int)
+comment1.text=\r\n\ Hides\ a\ health\ pack\ at\ a\ random\ location\ on\ the\ map\r\n\ The\ number\ of\ health\ packs\ is\ determined\ by\ the\ size\ of\ the\ 2D\ array\r\n
+comment2.params=in
+comment2.target=void\ hideCoin(char[][])
+comment2.text=\r\n\ Hides\ a\ coin\ at\ a\ random\ location\ on\ the\ map\r\n\ Make\ sure\ the\ spot\ is\ not\ taken\ by\ a\ target\ or\ a\ health\ pack\r\n
+numComments=3
