@@ -1,17 +1,2 @@
-﻿  transaction.cpp
-  hashtable.cpp
-  drama.cpp
-  borrow.cpp
-  Generating Code...
-  Skipping... (no relevant changes detected)
-  transfactory.cpp
-  return.cpp
-  movielogic.cpp
-  lab4.cpp
-  inventory.cpp
-  history.cpp
-  customerlogic.cpp
-  commandlogic.cpp
-  businesslogic.cpp
-  lab4.vcxproj -> C:\Users\JJ\Documents\Visual Studio 2015\Projects\lab4\Debug\lab4.exe
-  lab4.vcxproj -> C:\Users\JJ\Documents\Visual Studio 2015\Projects\lab4\Debug\lab4.pdb (Full PDB)
+﻿  lab4.vcxproj -> C:\Users\JJ\Documents\GitHub\Programs\Library Project\Debug\lab4.exe
+  lab4.vcxproj -> C:\Users\JJ\Documents\GitHub\Programs\Library Project\Debug\lab4.pdb (Full PDB)
