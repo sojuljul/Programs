@@ -1,0 +1,95 @@
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe.config
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.pdb
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csprojResolveAssemblyReference.cache
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Form1.resources
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Properties.Resources.resources
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csproj.GenerateResource.Cache
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.exe
+c:\users\shanelee\documents\visual studio 2015\Projects\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.pdb
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\NAudio.dll
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\NAudio.xml
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.dll.config
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.dll
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audition.dll
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.dll
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.Core.dll
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.dll
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.xml
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.xml
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audition.xml
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.xml
+C:\Users\Shanelee\Documents\Visual Studio 2015\Projects\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.Core.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe.config
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.exe
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.pdb
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.dll.config
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.pdb
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.DirectSound.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audition.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.Core.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\NAudio.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.DirectSound.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.dll
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.DirectSound.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audition.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.Core.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\NAudio.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.DirectSound.xml
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Form1.resources
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Properties.Resources.resources
+D:\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csproj.GenerateResource.Cache
+C:\Users\JJ\Documents\490\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe.config
+C:\Users\JJ\Documents\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.exe
+C:\Users\JJ\Documents\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.pdb
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe.config
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.exe
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.pdb
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csprojResolveAssemblyReference.cache
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Form1.resources
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Properties.Resources.resources
+C:\Users\JJ\Documents\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csproj.GenerateResource.Cache
+C:\Users\Shanelee\GitHub\490\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe.config
+C:\Users\Shanelee\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.exe
+C:\Users\Shanelee\GitHub\490\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.pdb
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.dll.config
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe.config
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.exe
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Assignement4Audio.pdb
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.DirectSound.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audition.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.Core.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\LibSVMsharp.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\NAudio.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.DirectSound.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.dll
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audio.DirectSound.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Audition.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\Accord.Math.Core.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\LibSVMsharp.pdb
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\NAudio.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\bin\Debug\SharpDX.DirectSound.xml
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csprojAssemblyReference.cache
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Form1.resources
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.Properties.Resources.resources
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csproj.GenerateResource.cache
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csproj.CoreCompileInputs.cache
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.csproj.CopyComplete
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.exe
+F:\Download\490-Branch1\490-Branch1\Assignement4Audio\Assignement4Audio\obj\Debug\Assignement4Audio.pdb
